@@ -16,15 +16,6 @@ Let me tell you a bit about myself <img src="https://emojis.slackmojis.com/emoji
 - 🤯 A strange fact about me: I am a Grammar Nazi 😬
 
 <h3>💻 GitHub Profile Stats</h3>
-<div style="display: flex;">
-  <div style="padding-right: 0px;">
-    <img width="50%" align="left" src="https://github-readme-stats.vercel.app/api?username=ahmedbilal12&theme=radical&count_private=true" />
-  </div>
-  <div style="padding-right: 0px;">
-    <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedbilal12&layout=compact&theme=radical" />
-  </div>
-</div>
-<b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
 <b>Comit History:</b>
 [![Ahmed's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ahmedbilal12&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
