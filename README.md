@@ -7,8 +7,8 @@ The world can be an overwhelming place, so I help making people’s life easier 
 
 Let me tell you a bit about myself <img src="https://emojis.slackmojis.com/emojis/images/1520808873/3643/cool-doge.gif?1520808873" width="20" />
 
-- 🖥️ I have been working for JinnByte Private Limited as a Development Team Lead
-- 🖨️ I have worked in Python, .Net and Node.js and databases which include MS SQL, Firestore and Mongo DB
+- 🖥️ My most recent experience is of a Principal Software Engineer at Integry.
+- 🖨️ I have worked in Flutter, React Native, Node.js, Python and databases which include MS SQL, Firestore and Mongo DB
 - 🧑‍💻 Besides having great skills, I believe learning must never end! I have learnt many new skills such as Team Work, Management, and Relation Building
 - 🎾 In my free time, I am a gaming geek, I love to play Call of Duty Multiplayer and Story Mode Games
 - ⛰️ Love exploring off-beat hikes and peaks in the Northern Pakistan. My absolute favorite: <a href="https://goo.gl/maps/zV3r6AYPzJPiWTPC9">Siri Paye Meadows</a>
