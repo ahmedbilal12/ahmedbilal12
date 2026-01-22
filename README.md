@@ -1,4 +1,4 @@
-# Hi, I'm Ahmed Bilal 👋
+# Hi, I'm Ahmad Bilal 👋
 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Nice+to+meet+you!;I+am+a+Software+Engineer;and+Tech+Enthusiast;I+can+get+your+ideas+into+software)](https://git.io/typing-svg)
