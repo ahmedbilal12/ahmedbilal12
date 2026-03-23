@@ -17,5 +17,5 @@ Let me tell you a bit about myself <img src="https://emojis.slackmojis.com/emoji
 
 <h3>💻 GitHub Profile Stats</h3>
 
-<b>Comit History:</b>
+<b>Commit History:</b>
 [![Ahmed's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ahmedbilal12&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
