@@ -2,7 +2,7 @@
 
 **Full Stack Developer & AI Engineer** - Building products people actually use.
 
-I lead engineering at [JinnByte](https://jinnbyte.com), where we've shipped 50+ products across fitness, AI, healthcare, logistics, and home services — for clients from San Francisco to the Middle East.
+I lead engineering at [JinnByte](https://jinnbyte.com), where we've shipped 100+ products across fitness, AI, healthcare, logistics, and home services, for clients from San Francisco to the Middle East.
 
 If you need something built end-to-end, from architecture to deployment, that's what I do.
 
