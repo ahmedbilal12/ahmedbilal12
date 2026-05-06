@@ -12,7 +12,7 @@ If you need something built end-to-end, from architecture to deployment, that's 
 
 **Frontend:** React, Next.js, Flutter  
 **Backend:** Node.js, Python  
-**AI/ML:** OpenAI, Google Gemini, TensorFlow, Mediapipe, VAPI, ElevenLabs, Agents, Chatbots
+**AI/ML:** OpenAI, Google Gemini, TensorFlow, Mediapipe, VAPI, ElevenLabs, Agents, Chatbots  
 **Databases:** PostgreSQL, MongoDB, Supabase, Firebase    
 **Infra:** AWS, Sentry, RevenueCat, Stripe, Twilio
 
